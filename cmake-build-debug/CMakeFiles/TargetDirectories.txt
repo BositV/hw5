@@ -1,0 +1,7 @@
+/Users/bositvaisov/CLionProjects/hw5/cmake-build-debug/CMakeFiles/hw5.dir
+/Users/bositvaisov/CLionProjects/hw5/cmake-build-debug/CMakeFiles/H2.dir
+/Users/bositvaisov/CLionProjects/hw5/cmake-build-debug/CMakeFiles/H3.dir
+/Users/bositvaisov/CLionProjects/hw5/cmake-build-debug/CMakeFiles/H4.dir
+/Users/bositvaisov/CLionProjects/hw5/cmake-build-debug/CMakeFiles/H5.dir
+/Users/bositvaisov/CLionProjects/hw5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bositvaisov/CLionProjects/hw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
